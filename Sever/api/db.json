@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "Xoi",
+      "price": "1111",
+      "description": "ok",
+      "id": "6069c1uKeFZj5seK5bNrv"
+    }
+  ],
+  "users": [
+    {
+      "id": "5YsFNN42B14VYHhpDyizn",
+      "name": "Administrator",
+      "email": "admin@gmail.com",
+      "password": 123456
+    }
+  ]
+}
